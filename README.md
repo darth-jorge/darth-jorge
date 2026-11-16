@@ -42,7 +42,7 @@ I've spent 13+ years building and shipping software products end to end. I'm cap
 
 ## I build some Public Projects just to showcase my skillset
 
-- [**easy_todos**](https://github.com/darth-jorge/easy_todos): a daily todo app built with Phoenix LiveView.
+- [**Wiztchta**](https://github.com/darth-jorge/wiztchta): : A mix hex package to protect Phoenix forms and LiveViews from spam bots with a self-hosted, privacy-friendly CAPTCHA (proof-of-work, honeypot, adaptive difficulty), no third-party services.
 
 ---
 
